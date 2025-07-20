@@ -1,59 +1,69 @@
-<h1 align="center">Hi 👋, I'm [Nama Kamu]</h1>
-<h3 align="center">A passionate student exploring web development and system building.</h3>
+<div align="center">
+  <img src="src\header-image.png"  />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
-</p>
+####
+<p align="center">A passionate student exploring web development and system building.</p>
 
----
+####
 
-🌱 **About Me:**
+<br clear="both">
 
-- 👨‍🎓 I’m a student who loves learning new things to gain broader knowledge and experience.
-- 💻 Currently learning **PHP, HTML, CSS, JavaScript** to strengthen my web development skills.
-- 🌐 Interested in **websites, server localhost, and building systems** for practical learning.
-- 🚀 Believing that every line of code is a step toward growth and contribution through technology.
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=F.F&left_color=black&right_color=darkmagenta&left_text=%F0%9F%91%8B%20Hi%20there!%20Thanks%20for%20dropping%20by."  />
+</div>
 
----
+###
 
-### 🛠️ Languages and Tools
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="36" height="24" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="36" height="24" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="36" height="24" alt="codepen logo"  />
+</div>
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-</p>
+###
 
----
+<h4 align="left">🌱 About Me:</h4>
 
-### 📊 GitHub Stats
+###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="yourusername" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="yourusername" />
-</p>
+<p align="left">- 👨‍🎓 I’m a student who loves learning new things to gain broader knowledge and experience.<br>- 💻 Currently learning **PHP, HTML, CSS, JavaScript** to strengthen my web development skills.<br>- 🌐 Interested in **websites, server localhost, and building systems** for practical learning.<br>- 🚀 Believing that every line of code is a step toward growth and contribution through technology.</p>
 
----
+###
 
-### 🤝 Let's Connect!
+<h3 align="left">🛠 Language and tools</h3>
 
-<p align="left">
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/yourinstagram" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
 
-⭐️ Thank you for visiting my GitHub profile! Every visit motivates me to keep learning and building.
+###
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=F&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=false&order=2" height="100" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=F&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
