@@ -34,7 +34,7 @@
 - <p align="left">🚀 Believing that every line of code is a step toward growth and contribution through technology.</p>
 
 
-<br><br>
+<br>
 
 <h4 align="left">🎯 Languages, Frameworks, and Tools</h4>
 
@@ -72,7 +72,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="26" alt="gitlab logo"  />
 </div>
 
-###
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/F/F/output/pacman-contribution-graph-dark.svg">
