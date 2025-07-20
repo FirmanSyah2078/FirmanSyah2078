@@ -9,47 +9,75 @@
 #####
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=F.F&left_color=black&right_color=darkmagenta&left_text=%F0%9F%91%8B%20Hi%20there!%20Thanks%20for%20dropping%20by."  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=F.F&left_color=black&right_color=mediumpurple&left_text=%F0%9F%91%8B%20Hi%20there!%20Thanks%20for%20dropping%20by."  />
 </div>
 
 #####
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="36" height="24" alt="discord logo"  />
+
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="36" height="24" alt="instagram logo"  />
+  
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="36" height="24" alt="codepen logo"  />
 </div>
 
 ###
 
-<h4 align="left">🌱 About Me:</h4>
+<h4 align="left">🌱 About Me</h4>
 
 ###
 
-<p align="left">- 👨‍🎓 I’m a student who loves learning new things to gain broader knowledge and experience.<br>- 💻 Currently learning **PHP, HTML, CSS, JavaScript** to strengthen my web development skills.<br>- 🌐 Interested in **websites, server localhost, and building systems** for practical learning.<br>- 🚀 Believing that every line of code is a step toward growth and contribution through technology.</p>
+- <p align="left">👨‍🎓 I’m a student who loves learning new things to gain broader knowledge and experience.</p>
+- <p align="left">💻 Currently learning <strong>PHP, HTML, CSS, JavaScript</strong> to strengthen my web development skills.</p>
+- <p align="left">🌐 Interested in <strong>websites, server localhost, and building systems</strong> for practical learning.</p>
+- <p align="left">🚀 Believing that every line of code is a step toward growth and contribution through technology.</p>
+
 
 ###
 
-<h4 align="left">💻 Language and tools</h4>
+<h4 align="left">🎯 Language & Tools</h4>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="25" alt="go logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="25" alt="rust logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="25" alt="ruby logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="25" alt="dot-net logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="25" alt="firebase logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="25" alt="amazonwebservices logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="25" alt="circleci logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="25" alt="kubernetes logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="25" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="26" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="26" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="26" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="26" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="26" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="26" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="26" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="26" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="26" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="26" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="26" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="26" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="26" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="26" alt="gitlab logo"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/F/F/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/F/F/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/F/F/output/pacman-contribution-graph.svg">
+</picture>
+
+###
