@@ -4,10 +4,9 @@
 
 #####
 
-<p align="center">A passionate student exploring web development and system building.</p>
+<p align="center">"The science of coding is a puzzle, and every line we write is the key to solving it."</p>
 
-
-<br clear="both">
+#####
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=F.F&left_color=black&right_color=darkmagenta&left_text=%F0%9F%91%8B%20Hi%20there!%20Thanks%20for%20dropping%20by."  />
