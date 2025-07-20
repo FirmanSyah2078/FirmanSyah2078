@@ -2,10 +2,9 @@
   <img src="src\header-image.png"  />
 </div>
 
-####
+
 <p align="center">A passionate student exploring web development and system building.</p>
 
-####
 
 <br clear="both">
 
@@ -13,7 +12,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=F.F&left_color=black&right_color=darkmagenta&left_text=%F0%9F%91%8B%20Hi%20there!%20Thanks%20for%20dropping%20by."  />
 </div>
 
-###
+#####
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="36" height="24" alt="discord logo"  />
@@ -21,7 +20,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="36" height="24" alt="codepen logo"  />
 </div>
 
-###
+---
 
 <h4 align="left">🌱 About Me:</h4>
 
