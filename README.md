@@ -37,7 +37,9 @@
 
 <h4 align="left">Personal Quote</h4>
 
-🌻 *“Takdir adalah misteri, dan ilmu adalah teka-teki. Jodoh itu tentang menemukan yang saling melengkapi, seperti potongan kode yang akhirnya membuat sistem berjalan dengan indah.”*
+###
+
+*“Takdir adalah misteri, dan ilmu adalah teka-teki. Jodoh itu tentang menemukan yang saling melengkapi, seperti potongan kode yang akhirnya membuat sistem berjalan dengan indah.”*
 
 <br>
 
