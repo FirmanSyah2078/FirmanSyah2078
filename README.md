@@ -24,7 +24,7 @@
 
 ##
 
-<h4 align="left">🌱 About Me</h4>
+<h4 align="left">About Me</h4>
 
 ###
 
@@ -43,7 +43,7 @@
 
 <br>
 
-<h4 align="left">🎯 Languages, Frameworks, and Tools</h4>
+<h4 align="left">Languages, Frameworks, and Tools</h4>
 
 ###
 
