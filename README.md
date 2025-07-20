@@ -22,10 +22,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="36" height="24" alt="codepen logo"  />
 </div>
 
-
-
-
-
+###
 
 <h4 align="left">🌱 About Me</h4>
 
@@ -37,7 +34,7 @@
 - <p align="left">🚀 Believing that every line of code is a step toward growth and contribution through technology.</p>
 
 
-##
+###
 
 <h4 align="left">🎯 Languages, Frameworks, and Tools</h4>
 
