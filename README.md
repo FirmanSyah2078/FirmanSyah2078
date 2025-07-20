@@ -33,7 +33,6 @@
 - <p align="left">🌐 Interested in <strong>websites, server localhost, and building systems</strong> for practical learning.</p>
 - <p align="left">🚀 Believing that every line of code is a step toward growth and contribution through technology.</p>
 
-
 <br>
 
 <h4 align="left">🎯 Languages, Frameworks, and Tools</h4>
