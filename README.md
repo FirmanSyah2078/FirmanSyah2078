@@ -29,7 +29,7 @@
 
 <br>
 
-<h4 align="center">Languages</h4>
+<h4 align="left">Languages</h4>
 <p align="center">
   <!-- URL di bawah ini adalah link langsung ke gambar statistik, bukan link pencarian Google -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirmanSyah2078&layout=compact&locale=id&theme=tokyonight&hide_border=true&hide_title=true" alt="Top Languages" />
