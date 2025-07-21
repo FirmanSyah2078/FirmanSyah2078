@@ -49,10 +49,10 @@
 </td>
 <!-- KOLOM KANAN: STATISTIK GITHUB -->
 <td valign="top" width="35%">
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 <!-- Ganti "FirmanSyah2078" dengan username GitHub Anda jika berbeda -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=F&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=vue-dark&hide_border=true&order=2&custom_title=Language" height="100" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=F&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=vue-dark&hide_border=true&order=2&custom_title=Language" height="150" alt="languages graph"  />
 </div>
 </td>
 </tr>
