@@ -1,4 +1,4 @@
-name: Generate Pac-Man Animation
+name: Generate Contribution Graph
 
 on:
   schedule:
@@ -6,24 +6,44 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
-    permissions:
-      contents: write
+  build:
     runs-on: ubuntu-latest
-
+    name: generate-graph
     steps:
-      # Langkah 1: Buat file SVG menggunakan action
-      - name: Generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
+      # Langkah 1: Buat file untuk mode TERANG
+      - uses: JieHor/JieHor-Contribution-Graph@v1.0.9
         with:
-          github_user_name: ${{ github.repository_owner }}
-          # Action ini akan membuat file di dalam folder 'dist' secara default
+          # Nama pengguna Anda
+          user: ${{ github.repository_owner }}
+          # Nama file output
+          file_name: contribution-graph.svg
+          # Kustomisasi warna untuk tema terang
+          bg_color: ffffff
+          graph_color: 216e39
+          point_color: 161b22
 
-      # Langkah 2: Dorong file dari 'dist' ke branch 'output'
+      # Langkah 2: Buat file untuk mode GELAP
+      - uses: JieHor/JieHor-Contribution-Graph@v1.0.9
+        with:
+          user: ${{ github.repository_owner }}
+          file_name: contribution-graph-dark.svg
+          # Kustomisasi warna untuk tema gelap
+          bg_color: 0d1117
+          graph_color: 216e39
+          point_color: c9d1d9
+
+      # Langkah 3: Dorong kedua file ke branch 'output'
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist
+          # Arahkan ke folder tempat file disimpan (defaultnya adalah folder root)
+          build_dir: .
+          # Hanya commit file SVG
+          commit_message: "chore: update contribution graph"
+          allow_empty_commit: false
+          clean_exclude: |
+            pacman-contribution-graph.svg
+            pacman-contribution-graph-dark.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
