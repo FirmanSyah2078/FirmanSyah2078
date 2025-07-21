@@ -17,7 +17,7 @@
 
 ##
 
-<h3 align="left">👋 About Me</h3>
+<h4 align="left">About Me</h4>
 <ul>
 <li>👨‍🎓 Saya seorang mahasiswa yang suka belajar hal baru untuk menambah wawasan dan pengalaman.</li>
 <li>💻 Saat ini sedang mendalami <strong>PHP, HTML, CSS, dan JavaScript</strong> untuk memperkuat skill web development.</li>
@@ -25,13 +25,7 @@
 <li>🚀 Percaya bahwa setiap baris kode adalah langkah menuju pertumbuhan dan kontribusi melalui teknologi.</li>
 </ul>
 
-<!-- ================================================================================================================================== -->
-
-<!-- KUTIPAN FAVORIT: KANAN-KIRI -->
-
-<!-- ================================================================================================================================== -->
-
-<h3 align="center">✨ Favorite Quotes</h3>
+<h4 align="center">Favorite Quotes</h4>
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -48,17 +42,11 @@
 </tr>
 </table>
 
-<!-- ================================================================================================================================== -->
-
-<!-- TEKNOLOGI & TOOLS -->
-
-<!-- ================================================================================================================================== -->
-
 <h4 align="left">Languages, Frameworks, and Tools</h4>
 
 <br>
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
