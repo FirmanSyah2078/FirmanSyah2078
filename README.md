@@ -79,7 +79,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="26" alt="gitlab logo"  />
 </div>
 
-<br><br>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FirmanSyah2078/FirmanSyah2078/output/pacman-contribution-graph-dark.svg" />
