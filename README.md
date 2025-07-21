@@ -38,7 +38,7 @@
 <h3 align="center">Languages</h3>
 <p align="center">
 <!-- URL statistik bahasa sekarang sudah benar. -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DFirmanSyah2078%26layout%3Dcompact%26locale%3Did%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirmanSyah2078&layout=compact&locale=id&theme=tokyonight&hide_border=true&hide_title=true" alt="Top Languages" />
 </p>
 </td>
 </tr>
