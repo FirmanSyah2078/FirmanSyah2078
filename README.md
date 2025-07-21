@@ -9,7 +9,7 @@
 <!-- ================================================================================================================================== -->
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/FirmanSyah2078/FirmanSyah2078/main/src/header-image.png" alt="Header Banner"/>
+<img src="https://raw.githubusercontent.com/FirmanSyah2078/FirmanSyah2078/main/src/header-image.png" alt="Header Banner"/>
 </p>
 
 <!-- ================================================================================================================================== -->
@@ -50,11 +50,10 @@
 <!-- KOLOM KANAN: STATISTIK GITHUB -->
 <td valign="top" width="35%">
 <h3 align="left">📊 GitHub Stats</h3>
-<p align="center">
 <!-- Ganti "FirmanSyah2078" dengan username GitHub Anda jika berbeda -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DFirmanSyah2078%26show_icons%3Dtrue%26locale%3Did%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DFirmanSyah2078%26layout%3Dcompact%26locale%3Did%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=F&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=vue-dark&hide_border=true&order=2&custom_title=Language" height="100" alt="languages graph"  />
+</div>
 </td>
 </tr>
 </table>
