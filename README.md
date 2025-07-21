@@ -81,6 +81,8 @@
 
 <br>
 
-<div align="center">
-  <img src="https-profile-pacman.gif" alt="Animasi Pac-Man Profil GitHub" width="95%"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/F/F/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/F/F/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/F/F/output/pacman-contribution-graph.svg">
+</picture>
