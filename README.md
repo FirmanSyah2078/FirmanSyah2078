@@ -15,15 +15,15 @@
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="36" height="24" alt="CodePen"/></a>
 </p>
 
-<!-- ================================================================================================================================== -->
+##
 
-<!-- KONTEN UTAMA: TATA LETAK DUA KOLOM -->
-
-<!-- ================================================================================================================================== -->
-
-| <h3 align="left">👋 About Me</h3> | <h3 align="left">📊 Top Languages</h3> |
-
-| <ul><li>👨‍🎓 Saya seorang mahasiswa yang suka belajar hal baru untuk menambah wawasan dan pengalaman.</li><li>💻 Saat ini sedang mendalami <strong>PHP, HTML, CSS, dan JavaScript</strong> untuk memperkuat skill web development.</li><li>🌐 Tertarik pada <strong>website, server localhost, dan membangun sistem</strong> untuk pembelajaran praktik.</li><li>🚀 Percaya bahwa setiap baris kode adalah langkah menuju pertumbuhan dan kontribusi melalui teknologi.</li></ul> | <p align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DFirmanSyah2078%26layout%3Dcompact%26locale%3Did%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" /></p> |
+<h3 align="left">👋 About Me</h3>
+<ul>
+<li>👨‍🎓 Saya seorang mahasiswa yang suka belajar hal baru untuk menambah wawasan dan pengalaman.</li>
+<li>💻 Saat ini sedang mendalami <strong>PHP, HTML, CSS, dan JavaScript</strong> untuk memperkuat skill web development.</li>
+<li>🌐 Tertarik pada <strong>website, server localhost, dan membangun sistem</strong> untuk pembelajaran praktik.</li>
+<li>🚀 Percaya bahwa setiap baris kode adalah langkah menuju pertumbuhan dan kontribusi melalui teknologi.</li>
+</ul>
 
 <!-- ================================================================================================================================== -->
 
