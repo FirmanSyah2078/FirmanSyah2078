@@ -1,22 +1,8 @@
-<!-- ================================================================================================================================== -->
 
-<!-- HEADER -->
-
-<!-- Ganti URL di bawah ini dengan URL gambar header Anda yang sudah diunggah ke GitHub. -->
-
-<!-- Cara mendapatkan URL: Buka file gambar di repo Anda -> Klik tombol "Raw" -> Salin URL dari address bar browser. -->
-
-<!-- ================================================================================================================================== -->
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FirmanSyah2078/FirmanSyah2078/main/src/header-image.png" alt="Header Banner"/>
 </p>
-
-<!-- ================================================================================================================================== -->
-
-<!-- INTRO & SOCIAL MEDIA -->
-
-<!-- ================================================================================================================================== -->
 
 <p align="center">
 <i>"The science of coding is a puzzle, and every line we write is the key to solving it."</i>
@@ -52,7 +38,7 @@
 <h4 align="center">GitHub Stats</h4>
 <p align="center">
 <!-- Ganti "FirmanSyah2078" dengan username GitHub Anda jika berbeda -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DFirmanSyah2078%26layout%3Dcompact%26locale%3Did%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirmanSyah2078&layout=compact&locale=id&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 </td>
 </tr>
