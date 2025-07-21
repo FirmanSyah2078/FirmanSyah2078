@@ -81,8 +81,6 @@
 
 <br>
 
-## 🐍 Statistik GitHub Saya
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Ular kontribusi GitHub">
-</p>
+<div align="center">
+  <img src="https-profile-pacman.gif" alt="Animasi Pac-Man Profil GitHub" width="95%"/>
+</div>
