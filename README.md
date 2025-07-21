@@ -21,11 +21,18 @@
 
 <!-- ================================================================================================================================== -->
 
-
+<table>
+<!-- Header kosong ini adalah trik untuk menyembunyikan border tabel -->
+<thead>
 <tr>
-<!-- KOLOM KIRI: TENTANG SAYA -->
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
 <td valign="top" width="65%">
-<h4 align="left">About Me</h4>
+<h3 align="left">About Me</h3>
 <ul>
 <li>👨‍🎓 Saya seorang mahasiswa yang suka belajar hal baru untuk menambah wawasan dan pengalaman.</li>
 <li>💻 Saat ini sedang mendalami <strong>PHP, HTML, CSS, dan JavaScript</strong> untuk memperkuat skill web development.</li>
@@ -33,16 +40,15 @@
 <li>🚀 Percaya bahwa setiap baris kode adalah langkah menuju pertumbuhan dan kontribusi melalui teknologi.</li>
 </ul>
 </td>
-<!-- KOLOM KANAN: STATISTIK GITHUB -->
 <td valign="top" width="35%">
-<h4 align="center">GitHub Stats</h4>
+<h3 align="center">Languages</h3>
 <p align="center">
-<!-- Ganti "FirmanSyah2078" dengan username GitHub Anda jika berbeda -->
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirmanSyah2078&layout=compact&locale=id&theme=tokyonight&hide_border=true&hide_title=true" alt="Top Languages" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DFirmanSyah2078%26layout%3Dcompact%26locale%3Did%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" />
 </p>
 </td>
 </tr>
-
+</tbody>
+</table>
 
 <!-- ================================================================================================================================== -->
 
