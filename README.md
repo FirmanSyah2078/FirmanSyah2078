@@ -81,8 +81,6 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/F/F/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/F/F/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/F/F/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FirmanSyah2078/FirmanSyah2078/output/pacman-contribution-graph.svg" />
+</p>
