@@ -84,5 +84,3 @@
 <div align="center">
   <img src="https-profile-pacman.gif" alt="Animasi Pac-Man Profil GitHub" width="95%"/>
 </div>
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NAMA_PENGGUNA_ANDA&theme=pacman)
