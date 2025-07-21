@@ -1,5 +1,3 @@
-
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/FirmanSyah2078/FirmanSyah2078/main/src/header-image.png" alt="Header Banner"/>
 </p>
@@ -25,22 +23,7 @@
 <li>🚀 Percaya bahwa setiap baris kode adalah langkah menuju pertumbuhan dan kontribusi melalui teknologi.</li>
 </ul>
 
-<h4 align="center">Favorite Quotes</h4>
-<table>
-<tr>
-<td width="50%" valign="top">
-<p align="center">
-<i>“Takdir adalah misteri, dan ilmu adalah teka-teki. Jodoh itu tentang menemukan yang saling melengkapi, seperti potongan kode yang akhirnya membuat sistem berjalan dengan indah.”</i>
-</p>
-</td>
-<td width="50%" valign="top">
-<p align="center">
-<i>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”</i>
-<br>– Martin Fowler
-</p>
-</td>
-</tr>
-</table>
+<br>
 
 <h4 align="left">Languages, Frameworks, and Tools</h4>
 
@@ -77,6 +60,25 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
 </div>
+
+<br>
+
+<h4 align="center">Favorite Quotes</h4>
+<table>
+<tr>
+<td width="50%" valign="top">
+<p align="center">
+<i>“Takdir adalah misteri, dan ilmu adalah teka-teki. Jodoh itu tentang menemukan yang saling melengkapi, seperti potongan kode yang akhirnya membuat sistem berjalan dengan indah.”</i>
+</p>
+</td>
+<td width="50%" valign="top">
+<p align="center">
+<i>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”</i>
+<br>– Martin Fowler
+</p>
+</td>
+</tr>
+</table>
 
 <br>
 
