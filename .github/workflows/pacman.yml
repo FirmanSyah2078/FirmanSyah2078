@@ -12,20 +12,25 @@ jobs:
     name: generate-pacman-graph
 
     steps:
-      # Langkah 1: Buat file SVG Pacman
+      # Langkah 1: Gunakan action baru yang mendukung kustomisasi warna
       - name: Generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
+        uses: science-inter/pacman-contribution@v2.0.0
         with:
-          github_user_name: ${{ github.repository_owner }}
-          # Action ini otomatis membuat file di dalam folder 'dist'
+          # Nama pengguna Anda
+          GITHUB_USER: ${{ github.repository_owner }}
+          # Nama file output
+          FILE_NAME: pacman-contribution-graph.svg
+          # Atur warna latar belakang menjadi transparan
+          BG_COLOR: transparent
+          # Atur warna border menjadi transparan
+          BORDER_COLOR: transparent
 
-      # Langkah 2: Dorong file dari folder 'dist' ke branch 'output'
+      # Langkah 2: Dorong file ke branch 'output'
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          # Nama branch tujuan
           target_branch: output
-          # Nama folder sumber
-          build_dir: dist
+          # Folder sumber (action ini menyimpan file di root)
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
