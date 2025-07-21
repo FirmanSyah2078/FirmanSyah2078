@@ -52,7 +52,6 @@
 <h4 align="center">GitHub Stats</h4>
 <p align="center">
 <!-- Ganti "FirmanSyah2078" dengan username GitHub Anda jika berbeda -->
-<img src="https://www.google.com/search?q=https://github-readme stats.vercel.app/api%3Fusername%3DFirmanSyah2078%26show_icons%3Dtrue%26locale%3Did%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Stats" />
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DFirmanSyah2078%26layout%3Dcompact%26locale%3Did%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" />
 </p>
 </td>
