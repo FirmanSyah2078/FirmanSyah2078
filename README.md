@@ -22,15 +22,8 @@
 <!-- ================================================================================================================================== -->
 
 <table>
-<!-- Header kosong ini adalah trik untuk menyembunyikan border tabel -->
-<thead>
 <tr>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
+<!-- KOLOM KIRI: TENTANG SAYA -->
 <td valign="top" width="65%">
 <h3 align="left">About Me</h3>
 <ul>
@@ -40,14 +33,15 @@
 <li>🚀 Percaya bahwa setiap baris kode adalah langkah menuju pertumbuhan dan kontribusi melalui teknologi.</li>
 </ul>
 </td>
+<!-- KOLOM KANAN: BAHASA YANG SERING DIGUNAKAN -->
 <td valign="top" width="35%">
 <h3 align="center">Languages</h3>
 <p align="center">
+<!-- URL statistik bahasa sekarang sudah benar. -->
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DFirmanSyah2078%26layout%3Dcompact%26locale%3Did%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" />
 </p>
 </td>
 </tr>
-</tbody>
 </table>
 
 <!-- ================================================================================================================================== -->
