@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=F.F&left_color=black&right_color=mediumpurple&left_text=%F0%9F%91%8B%20Hi%20there!%20Thanks%20for%20dropping%20by."  alt="Visitor Badge"/>
+</p>
+
+<p align="center">
 <!-- GANTI # DENGAN LINK PROFIL SOSIAL MEDIA ANDA -->
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="36" height="24" alt="Discord"/></a>
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="36" height="24" alt="Instagram"/></a>
@@ -87,7 +91,3 @@
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FirmanSyah2078/FirmanSyah2078/output/pacman-contribution-graph.svg" />
 <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/FirmanSyah2078/FirmanSyah2078/output/pacman-contribution-graph.svg" />
 </picture>
-
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=F.F&left_color=black&right_color=mediumpurple&left_text=%F0%9F%91%8B%20Hi%20there!%20Thanks%20for%20dropping%20by."  alt="Visitor Badge"/>
-</p>
