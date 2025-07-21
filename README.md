@@ -81,12 +81,15 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/F/F/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/F/F/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/F/F/output/pacman-contribution-graph.svg">
-</picture>
+## 🎮 Proyek Game Saya: Space Shooter
 
-<br>
+Ini adalah game penembak luar angkasa yang saya buat menggunakan Python dengan Pygame.
 
-<img src="https://raw.githubusercontent.com/F/F/output/snake.svg" alt="Snake animation" />
+[![Gameplay Space Shooter](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx.../giphy.gif)](https://github.com/username/space-shooter-repo)
+*<p align="center">Klik gambar di atas untuk melihat repositori!</p>*
+
+**Teknologi yang digunakan:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyGame](https://img.shields.io/badge/PyGame-6E7072?style=for-the-badge&logo=pygame&logoColor=white)
+
+➡️ **[Mainkan demonya di sini!](https://username.github.io/space-shooter-demo/)**
